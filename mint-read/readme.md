@@ -1,6 +1,6 @@
-# RidayFeed Template :trophy:
+# Mint Read Template :trophy:
 
-![Riedayme](https://github.com/imintweb/mintemp/blob/master/mint-read/preview.png?raw=true)
+![Mint Read](https://github.com/imintweb/mintemp/blob/master/mint-read/preview.png?raw=true)
 
 ## Change Log
 23 May 2020
